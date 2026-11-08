@@ -2,6 +2,10 @@
 
 Version history for the EverWilds RoF2 player client patch.
 
+## Download
+
+[Download the ready-to-install Client Files.zip](Client%20Files.zip?raw=true). This is the unchanged original archive, including the installer, core patch and icons.
+
 ## Install
 
 1. Close all EverQuest clients.
